@@ -15,7 +15,7 @@ body{
 
 
 
-/*scroll bar modificata*/
+/*scroll bar modified*/
 ::-webkit-scrollbar {
   width: 10px;
 }
@@ -148,7 +148,7 @@ h2:hover{
     -webkit-text-fill-color: transparent;
     transition: all 0.3s ease-in-out;
 }
-/* corsi */
+/* courses */
 .servicesText.card {
     height: 280px;
     cursor: pointer;
@@ -264,7 +264,7 @@ h1.text-center {
 }
 }
 /*Portfolio*/
-.sotto{
+.under{
   justify-content: space-around;
 }
 .card-textPortfolio{
@@ -340,7 +340,7 @@ h1.text-center {
 .linkAboutMe{
   text-decoration: none;
 }
-.testoAboutMe,
+.textAboutMe,
 .col-md-6{
   font-size: 20px;
 }
